@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "954177587115",
+    "firebase_url": "https://loginpage-d5999.firebaseio.com",
+    "project_id": "loginpage-d5999",
+    "storage_bucket": "loginpage-d5999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954177587115:android:416d7b7d423627dcd434ee",
+        "android_client_info": {
+          "package_name": "com.nitin.LoginSignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954177587115-aegntk8u7gtehaqvt8f5iveantf2uu2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2itMXeLcTrQov86OW0iIZOpBxbmXHuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954177587115-aegntk8u7gtehaqvt8f5iveantf2uu2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
